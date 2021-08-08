@@ -3,11 +3,6 @@ let zahl2;
 let ergebnis;
 let input;
 
-function start() {
-
-    document.getElementById("eingabe").style.display = "none";
-
- }
 function plus() {
 
     einblenden();
